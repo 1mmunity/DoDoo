@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "todo",
-    "slug": "todo",
-    "version": "1.0.0",
+    "name": "DoDoo",
+    "slug": "DoDoo",
+    "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#111827"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,8 +23,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "backgroundColor": "#111827"
+      },
+      "package": "com.adrieljapps.dodoo"
     },
     "web": {
       "favicon": "./assets/favicon.png"

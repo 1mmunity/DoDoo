@@ -1,0 +1,5 @@
+export const STORAGE_KEY = '@todos'
+export const SHOW_REAL_APP_KEY = '@sra'
+export const EMAIL = 'adrieljapps@gmail.com'
+export * from './theme'
+export * from './dummy'
